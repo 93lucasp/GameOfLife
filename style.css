@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+}
+.row {
+	height: 12px;
+}
+.true {
+	width: 10px;
+	height: 10px;
+	background-color: #000;
+	color: red;
+	display: inline-block;
+	border: 1px solid #000;
+}
+.false {
+	width: 10px;
+	height: 10px;
+	background-color: #fff;
+	color: red;
+	display: inline-block;
+	border: 1px solid #000;
+}
